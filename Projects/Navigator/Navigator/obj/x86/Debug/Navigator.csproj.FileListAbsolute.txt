@@ -1,0 +1,15 @@
+C:\Users\Mahdi\AppData\Local\Temporary Projects\Navigator\bin\Debug\Navigator.exe
+C:\Users\Mahdi\AppData\Local\Temporary Projects\Navigator\bin\Debug\Navigator.pdb
+C:\Users\Mahdi\AppData\Local\Temporary Projects\Navigator\obj\x86\Debug\Navigator.Form1.resources
+C:\Users\Mahdi\AppData\Local\Temporary Projects\Navigator\obj\x86\Debug\Navigator.Properties.Resources.resources
+C:\Users\Mahdi\AppData\Local\Temporary Projects\Navigator\obj\x86\Debug\Navigator.csproj.GenerateResource.Cache
+C:\Users\Mahdi\AppData\Local\Temporary Projects\Navigator\obj\x86\Debug\Navigator.exe
+C:\Users\Mahdi\AppData\Local\Temporary Projects\Navigator\obj\x86\Debug\Navigator.pdb
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Navigator\Navigator\obj\x86\Debug\Navigator.exe
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Navigator\Navigator\obj\x86\Debug\Navigator.pdb
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Navigator\Navigator\bin\Debug\Navigator.exe
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Navigator\Navigator\bin\Debug\Navigator.pdb
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Navigator\Navigator\obj\x86\Debug\Navigator.Form1.resources
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Navigator\Navigator\obj\x86\Debug\Navigator.Properties.Resources.resources
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Navigator\Navigator\obj\x86\Debug\Navigator.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Navigator\Navigator\obj\x86\Debug\Navigator.csprojResolveAssemblyReference.cache

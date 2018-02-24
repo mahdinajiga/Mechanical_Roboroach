@@ -1,0 +1,8 @@
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Commander\Commander\Commander\bin\Debug\Commander.exe
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Commander\Commander\Commander\bin\Debug\Commander.pdb
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Commander\Commander\Commander\obj\x86\Debug\Commander.Form1.resources
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Commander\Commander\Commander\obj\x86\Debug\Commander.Properties.Resources.resources
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Commander\Commander\Commander\obj\x86\Debug\Commander.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Commander\Commander\Commander\obj\x86\Debug\Commander.exe
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Commander\Commander\Commander\obj\x86\Debug\Commander.pdb
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Commander\Commander\Commander\obj\x86\Debug\Commander.csprojResolveAssemblyReference.cache

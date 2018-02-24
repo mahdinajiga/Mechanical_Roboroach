@@ -1,0 +1,7 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"v1.c" LINE:44
+mpu_Initialize DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"MPU_lib.c" LINE:4
+i2c_Initialize DSTACK_USAGE:5 DSTACK_LEVEL:5 FILE:"i2c_lib.c" LINE:6
+pow DSTACK_USAGE:12 DSTACK_LEVEL:17 FILE:"..\..\..\CodeVisionAVR Advanced 3.12\lib\math.lib" LINE:740
+exp DSTACK_USAGE:14 DSTACK_LEVEL:31 FILE:"..\..\..\CodeVisionAVR Advanced 3.12\lib\math.lib" LINE:724
+floor DSTACK_USAGE:4 DSTACK_LEVEL:35 FILE:"..\..\..\CodeVisionAVR Advanced 3.12\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:39 FILE:"..\..\..\CodeVisionAVR Advanced 3.12\lib\math.lib" LINE:544

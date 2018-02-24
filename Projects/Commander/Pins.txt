@@ -1,0 +1,29 @@
+4 fans			4
+0/1
+abcd
+fan_l_out///fan_l_in///fan_r_out///fan_r_in///
+
+2 doors			4
+0/1
+ef
+door_r///door_l///
+
+2 drops			4
+0/1
+gh
+drop_r///drop_l///
+
+3 lights		3
+0/1
+ijk
+light_r///light_m///light_l///
+
+2 sprey			4
+1cycle
+lm
+spray_r///spray_l///
+
+
+
+
+Invalid URI: The URI is empty.

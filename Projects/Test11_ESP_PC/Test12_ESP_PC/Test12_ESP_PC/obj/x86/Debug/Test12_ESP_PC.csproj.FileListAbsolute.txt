@@ -1,0 +1,14 @@
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test12_ESP_PC\Test12_ESP_PC\bin\Debug\Test12_ESP_PC.exe
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test12_ESP_PC\Test12_ESP_PC\bin\Debug\Test12_ESP_PC.pdb
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test12_ESP_PC\Test12_ESP_PC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test12_ESP_PC\Test12_ESP_PC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test12_ESP_PC\Test12_ESP_PC\obj\x86\Debug\Test12_ESP_PC.csproj.GenerateResource.Cache
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test12_ESP_PC\Test12_ESP_PC\obj\x86\Debug\Test12_ESP_PC.exe
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test12_ESP_PC\Test12_ESP_PC\obj\x86\Debug\Test12_ESP_PC.pdb
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test11_ESP_PC\Test12_ESP_PC\Test12_ESP_PC\obj\x86\Debug\Test12_ESP_PC.exe
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test11_ESP_PC\Test12_ESP_PC\Test12_ESP_PC\obj\x86\Debug\Test12_ESP_PC.pdb
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test11_ESP_PC\Test12_ESP_PC\Test12_ESP_PC\bin\Debug\Test12_ESP_PC.exe
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test11_ESP_PC\Test12_ESP_PC\Test12_ESP_PC\bin\Debug\Test12_ESP_PC.pdb
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test11_ESP_PC\Test12_ESP_PC\Test12_ESP_PC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test11_ESP_PC\Test12_ESP_PC\Test12_ESP_PC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Mahdi\Programing\Electonic\Roboroch\Projects\Test11_ESP_PC\Test12_ESP_PC\Test12_ESP_PC\obj\x86\Debug\Test12_ESP_PC.csproj.GenerateResource.Cache

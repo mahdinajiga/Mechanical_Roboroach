@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:4B0A4B51
+NODE:I LEVEL:0 LINE:1 "D:\Mahdi\Programing\Electonic\Roboroch\MPU6050\Micro code\MPU_lib.h"
+NODE:I LEVEL:0 LINE:2 "D:\Mahdi\Programing\Electonic\Roboroch\MPU6050\Micro code\i2c_lib.h"
+NODE:F LEVEL:0 LINE:4 "mpu_Initialize(void)"
+NODE:F LEVEL:0 LINE:12 "mpu_GetByte(unsigned char reg)"
+NODE:F LEVEL:0 LINE:23 "mpu_WriteByte(unsigned char reg,unsigned char value)"
+NODE:F LEVEL:0 LINE:31 "mpu_BurstRead(unsigned char startRegAddress,unsigned char count,unsigned char * buffer)"
